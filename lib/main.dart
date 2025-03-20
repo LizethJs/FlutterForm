@@ -46,7 +46,7 @@ class _FormularioScreenState extends State<FormularioScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Formulario Flutter by Jessicaa'),
+        title: Text('Formulario Flutter'),
         centerTitle: true,
       ),
       body: Padding(
